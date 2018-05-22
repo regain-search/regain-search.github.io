@@ -1,6 +1,10 @@
 ---
-title: regain Help
+title: regain manual
 ---
 
-regain Help
-===========
+regain manual
+=============
+
+[regain manual in English language](/en/)
+
+[regain-Handbuch in deutscher Sprache](/de/)
